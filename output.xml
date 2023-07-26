@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 6.1 (Python 3.11.4 on win32)" generated="20230726 23:40:41.881" rpa="false" schemaversion="4">
+<suite id="s1" name="Test Login Rf" source="C:\Users\48533\Documents\GitHub\panelscout_robotframework\test_login_rf.robot">
+<test id="s1-t1" name="Login to the system" line="14">
+<status status="FAIL" starttime="20230726 23:40:42.669" endtime="20230726 23:40:42.670">Test cannot be empty.</status>
+</test>
+<test id="s1-t2" name="Open login page" line="15">
+<status status="FAIL" starttime="20230726 23:40:42.671" endtime="20230726 23:40:42.672">Test cannot be empty.</status>
+</test>
+<test id="s1-t3" name="Type in email" line="16">
+<status status="FAIL" starttime="20230726 23:40:42.673" endtime="20230726 23:40:42.673">Test cannot be empty.</status>
+</test>
+<test id="s1-t4" name="Type in password" line="17">
+<status status="FAIL" starttime="20230726 23:40:42.675" endtime="20230726 23:40:42.676">Test cannot be empty.</status>
+</test>
+<test id="s1-t5" name="Click on the Submit bitton" line="18">
+<status status="FAIL" starttime="20230726 23:40:42.677" endtime="20230726 23:40:42.678">Test cannot be empty.</status>
+</test>
+<test id="s1-t6" name="Assert dashboard" line="19">
+<status status="FAIL" starttime="20230726 23:40:42.680" endtime="20230726 23:40:42.680">Test cannot be empty.</status>
+</test>
+<test id="s1-t7" name="[Teardown] Close Browser" line="20">
+<status status="FAIL" starttime="20230726 23:40:42.681" endtime="20230726 23:40:42.682">Test cannot be empty.</status>
+</test>
+<doc>Suite description #automated tests for scout website</doc>
+<status status="FAIL" starttime="20230726 23:40:41.884" endtime="20230726 23:40:42.683"/>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="7" skip="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="7" skip="0" id="s1" name="Test Login Rf">Test Login Rf</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20230726 23:40:41.857" level="ERROR">Error in file 'C:\Users\48533\Documents\GitHub\panelscout_robotframework\test_login_rf.robot' on line 23: Unrecognized section header '*** Keywwords ***'. Valid sections: 'Settings', 'Variables', 'Test Cases', 'Tasks', 'Keywords' and 'Comments'.</msg>
+<msg timestamp="20230726 23:40:41.884" level="ERROR">Error in file 'C:\Users\48533\Documents\GitHub\panelscout_robotframework\test_login_rf.robot' on line 46: Creating keyword '' failed: User keyword name cannot be empty.</msg>
+</errors>
+</robot>
